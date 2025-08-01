@@ -1,0 +1,56 @@
+header{
+    background-color: #3cd589;
+    
+}
+header  h1{
+    position: absolute;
+    top:20 px;
+    left: 20px;
+    color: white;
+    text-align: center;
+    
+
+}
+header img{
+    position: absolute;
+    top:25px;
+    width: 100px;
+    left: 10px;
+    height: 100px;
+    
+
+}
+nav{
+    background-color: #3cd589;
+    height: 45 px;
+    padding-top: 20px;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+
+    
+}
+nav  a{
+    background-color: #3cd589;
+    padding: 2px 2px 2px 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+    color: rgb(8, 147, 117);   
+
+}
+main{
+    position: relative;
+    justify-content: center;
+}
+#main img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    \end{code}
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+
+}

@@ -1,0 +1,33 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #7f3cc1;/* fondo de componente*/
+    display: flex;/* div secction.heder, main, footer, nav*/
+    justify-content: center;/* div, section, heder,*/
+    text-align: center;
+    
+}
+header h2{
+    margin:30px 30px  30px 30px;
+    margin-bottom:0xp ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+header img{
+    
+    height: 300px;
+    width: 300px;
+}
+@media (max-width: 376px) {
+    header  {
+         flex-direction: column;
+         background-color: rgb(0, 247, 255);
+    }
+    heder img{
+        height: 200px;
+        width: 200px;
+    }   
+}
+    
